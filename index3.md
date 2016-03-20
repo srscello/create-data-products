@@ -19,15 +19,21 @@ Data Sets in R of Interest
 
 LakeHuron
 ========================================================
-```{r}
+
+```r
 plot(LakeHuron)
 ```
 
+![plot of chunk unnamed-chunk-1](index3-figure/unnamed-chunk-1-1.png)
+
 Sunspot.year
 ========================================================
-```{r}
+
+```r
 plot(sunspot.year)
 ```
+
+![plot of chunk unnamed-chunk-2](index3-figure/unnamed-chunk-2-1.png)
 
 Connecting the Datasets
 ========================================================
