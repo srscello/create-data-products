@@ -4,17 +4,15 @@ author: Steven Strand
 date: 3/19/2015
 transition: linear
 
-EarthQuest Tool
-========================================================
-transition: zoom
-
-* View Time Series DataSets in R Base
-* Interactively view correlations
-
-* GitHub Repository for Source: [http://github.com/srscello/create-data-products.git](http://github.com/srscello/create-data-products.git)
+* Tool Features
+  * View Earth-Centric Time Series DataSets in R Base
+  * Interactively view correlations
+  
+  * GitHub Repository for Source: [http://github.com/srscello/create-data-products.git](http://github.com/srscello/create-data-products.git)
 
 Data Sets in R of Interest
 ========================================================
+
 transition: rotate
 
 * LakeHuron
