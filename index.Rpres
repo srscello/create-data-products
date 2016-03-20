@@ -12,7 +12,6 @@ transition: linear
 
 Data Sets in R of Interest
 ========================================================
-
 transition: rotate
 
 * LakeHuron
