@@ -8,6 +8,7 @@ EarthQuest Tool
 * View Time Series DataSets in R Base
 * Interactively view correlations
 
+* GitHub Repository for Source: [http://github.com/srscello/create-data-products.git](http://github.com/srscello/create-data-products.git)
 
 Data Sets in R of Interest
 ========================================================
