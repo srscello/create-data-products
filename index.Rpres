@@ -2,11 +2,11 @@ EarthQuest Tool
 ========================================================
 author: Steven Strand
 date: 3/19/2015
-transition: zoom
+transition: linear
 
 EarthQuest Tool
 ========================================================
-transition: rotate
+transition: zoom
 
 * View Time Series DataSets in R Base
 * Interactively view correlations
