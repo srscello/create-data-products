@@ -2,9 +2,12 @@ EarthQuest Tool
 ========================================================
 author: Steven Strand
 date: 3/19/2015
+transition: zoom
 
 EarthQuest Tool
 ========================================================
+transition: rotate
+
 * View Time Series DataSets in R Base
 * Interactively view correlations
 
@@ -12,6 +15,7 @@ EarthQuest Tool
 
 Data Sets in R of Interest
 ========================================================
+transition: rotate
 
 * LakeHuron
   * Annual measurements of the level, in feet, of Lake Huron 1875–1972
