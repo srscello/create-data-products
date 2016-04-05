@@ -1,0 +1,39 @@
+---
+title: "EarthQuest Documentation"
+author: "Steven Strand"
+date: "April 9, 2016"
+output: html_document
+---
+
+# Overview
+* EarthQuest enables exploration of time series data sets found in the base R package.
+* Data sets can be plotted alone or in comparison plots.
+* The time range can be adjusted to the common time range of the two data sets.
+* Data sets can be plotted against each other and a linear model will be fit to explore any correlation via $R^2$
+
+
+# Available Data Sets
+* LakeHuron: Annual measurements of the level, in feet, of Lake Huron 1875–1972
+* sunspot.year: Yearly numbers of sunspots from 1700 to 1988 (rounded to one digit).
+* co2: Mauna Loa Atmospheric CO2 Concentration
+* nhtemp: Average Yearly Temperatures in New Haven
+* treering: Yearly Treering Data, -6000-1979
+
+# How to Use EarthQuest
+## Plot a single time series and report its mean and slope
+1) Select a single time series using the selection input
+
+## Plot two time series above each other
+1) Check the box to  Compare Datasets
+1) Select a second time series
+1) Check the box to Trim the Time Range to a common range for both sets if desired.
+1) Select other data sets to compare if desired
+
+## Plot one time series versus another, and report the $R^2$ value for a linear model
+1) Check the box to  Compare Datasets
+1) Select a second time series
+1) Check the crossplot select box
+1) Select other data sets to compare if desired
+
+# For More Information:
+  * GitHub Repository for Source: [http://github.com/srscello/create-data-products.git](http://github.com/srscello/create-data-products.git)
