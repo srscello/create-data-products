@@ -32,7 +32,12 @@ shinyUI(pageWithSidebar(
       a(href="earthquest-documentation.html","Documentation",target="_blank"),
       p(""),
       a(href="http://github.com/srscello/create-data-products.git",
-        "GitHub Repository for Source",target="_blank")
+        "GitHub Repository for Project with Slides",target="_blank"),
+    p(""),
+    a(href="http://github.com/srscello/create-data-products/tree/gh-pages/earthquest",
+      "GitHub Repository for Source",target="_blank")
+    
+    
       ),
         
     mainPanel(

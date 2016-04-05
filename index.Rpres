@@ -4,11 +4,11 @@ author: Steven Strand
 date: 4/9/2016
 transition: linear
 
-* Tool Features
-  * View Earth-Centric Time Series DataSets in R Base
-  * Interactively view correlations
-  * GitHub Repository for Source: [http://github.com/srscello/create-data-products.git](http://github.com/srscello/create-data-products.git)
-  * Link to run EarthQuest Tool:
+* Interactively View & Compare Earth-Centric Time Series DataSets in R Base
+* GitHub Repository for Rshiny Source:
+  [http://github.com/srscello/create-data-products/tree/gh-pages/earthquest](https://github.com/srscello/create-data-products/tree/gh-pages/earthquest)
+* GitHub Repository for Project with Slides: [http://github.com/srscello/create-data-products.git](http://github.com/srscello/create-data-products.git)
+* Link to run EarthQuest Tool:
   [https://srscello.shinyapps.io/shinyapp/](https://srscello.shinyapps.io/shinyapp/)
 
 Data Sets in R of Interest

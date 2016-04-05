@@ -36,4 +36,6 @@ output: html_document
 1) Select other data sets to compare if desired
 
 # For More Information:
-  * GitHub Repository for Source: [http://github.com/srscello/create-data-products.git](http://github.com/srscello/create-data-products.git)
+  * GitHub Repository for Project with Slides: [http://github.com/srscello/create-data-products.git](http://github.com/srscello/create-data-products.git)
+  * GitHub Repository for Rshiny Application Source:
+[http://github.com/srscello/create-data-products/tree/gh-pages/earthquest](http://github.com/srscello/create-data-products/tree/gh-pages/earthquest)
